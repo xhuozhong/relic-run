@@ -1,0 +1,9 @@
+CMU Graphics Lab Motion Capture Database
+https://mocap.cs.cmu.edu/
+https://mocap.cs.cmu.edu/info.php
+
+Original data: free for all uses under the terms stated by CMU; this is not a CC0 license assertion.
+The data used in this project was obtained from mocap.cs.cmu.edu. The database was created with funding from NSF EIA-0196217.
+
+BVH conversion mirror: https://github.com/Shriinivas/cmubvh/tree/main/Sequence-001-009/09
+Adopted 09_01.bvh running capture, originally 120 Hz. Retargeted to MakeHuman skeleton; linear root travel removed, loop conditioned and retimed. Other shipped actions are derived from Quaternius CC0, see separate licenses.
