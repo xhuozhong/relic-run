@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "release": "Relic Run revision 5 static web distribution",
+  "excludes": [
+    "FILE_MANIFEST.json (this manifest)",
+    ".git/"
+  ],
+  "fileCount": 39,
+  "totalBytes": 60770347,
+  "runtimeReferences": [
+    "assets/environment.png",
+    "assets/fern-realistic.png",
+    "assets/fire-atlas-v5.png",
+    "assets/forest-light.hdr",
+    "assets/monster.png",
+    "assets/reference.png",
+    "assets/road-module.json",
+    "assets/runner.glb",
+    "assets/serpent-pair.json",
+    "assets/stone-arm.jpg",
+    "assets/stone-diff.jpg",
+    "assets/stone-nor_gl.jpg",
+    "assets/stone.png",
+    "assets/temple-gate.json",
+    "assets/tower-v4.png",
+    "content.js",
+    "environment-detail.js",
+    "game.js",
+    "gltf-loader.js",
+    "rgbe-loader.js",
+    "road-cuts.js",
+    "route-readability.js",
+    "runner3d.js",
+    "style.css",
+    "three.min.js"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 64,
+      "sha256": "6dc3f09beea36af0107ad19595020fb321ddb0f49adce06be4a395f8959b5226"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 52,
+      "sha256": "5090f0ec2cac9169e6f23aeea50c062f52d4a2d6fe83eea6797ce87d89a5c5a6"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/environment.png",
+      "bytes": 3253883,
+      "sha256": "da65eead01294890556cba9de3ba7cee093496d07995515889020e8bce2df7a7"
+    },
+    {
+      "path": "assets/fern-realistic.png",
+      "bytes": 2894846,
+      "sha256": "5a368f3fa2da1207038a99ca8edf6cba7b56a6d3a786cd5ddedbcc2950548c64"
+    },
+    {
+      "path": "assets/fire-atlas-v5.png",
+      "bytes": 1230500,
+      "sha256": "d63f52aa96233381ceb833d35b5086a4023da51d6933d8227b2917c8195528d2"
+    },
+    {
+      "path": "assets/forest-light.hdr",
+      "bytes": 1865245,
+      "sha256": "e688f624cd66973515154f200d6998b8731fd57dd8f6c2d71eb315454e9c3ef8"
+    },
+    {
+      "path": "assets/monster.png",
+      "bytes": 1823055,
+      "sha256": "db0d73d6abf6edb07e5741b0cbd24d666a5224f4e82a11a091a7f2da25661b57"
+    },
+    {
+      "path": "assets/reference.png",
+      "bytes": 3006094,
+      "sha256": "746a49ea3a46b0c2885130897cc8ddac05b9d9ed626197e9f1872c6c28cc156b"
+    },
+    {
+      "path": "assets/road-module.json",
+      "bytes": 448555,
+      "sha256": "4a6667c827e45d2320af2e891e5e86bbcea1f81403344a3b7ec937f28b2fd200"
+    },
+    {
+      "path": "assets/runner.glb",
+      "bytes": 10894512,
+      "sha256": "551449861c179f0089074d3843cdd2ec35043f44defe4eec4b5d7ed684985844"
+    },
+    {
+      "path": "assets/serpent-pair.json",
+      "bytes": 18168341,
+      "sha256": "3091e12cb6475b99bcae3069421ea60a33456217330740eb79614a6a18478b1d"
+    },
+    {
+      "path": "assets/stone-arm.jpg",
+      "bytes": 805558,
+      "sha256": "c963cb6e73960e0a0562a2650d13fc6a259ef57e85945ed3b47d502697df4c03"
+    },
+    {
+      "path": "assets/stone-diff.jpg",
+      "bytes": 2289909,
+      "sha256": "9aaf7db7f660f03d0c5c129c11e83caa828fb8bca63f8cd5154d450ffc4c340f"
+    },
+    {
+      "path": "assets/stone-nor_gl.jpg",
+      "bytes": 3948187,
+      "sha256": "42dd5fc2da4a858f9c076c9ac5002857a1c064f8f4c4ffb12fafecffb84e96cc"
+    },
+    {
+      "path": "assets/stone.png",
+      "bytes": 3725748,
+      "sha256": "eb788390bfae2d1289584d4ff00993bb68029342255275647a9a76d5f7d8c176"
+    },
+    {
+      "path": "assets/temple-gate.json",
+      "bytes": 1969908,
+      "sha256": "dc55728042a59d353e6b8b7b31703606f49cdb16516a8dab701233d67633ad27"
+    },
+    {
+      "path": "assets/tower-v4.png",
+      "bytes": 3541074,
+      "sha256": "925d3b9f9c8d98725912977708c63b998c30bda9c9437f8f7af40438626ee8e4"
+    },
+    {
+      "path": "content.js",
+      "bytes": 2305,
+      "sha256": "95baacb47d868ad270aae050120b254cf3249b275a3be8d15781635682e91b29"
+    },
+    {
+      "path": "environment-detail.js",
+      "bytes": 11617,
+      "sha256": "0062ba863b9e674ccc9bf4acf0957607b6033b12bd7ac692e65522e9a478192a"
+    },
+    {
+      "path": "game.js",
+      "bytes": 41423,
+      "sha256": "1a75d911cbc0e2429fa41ccc7bb10deb55da09869436e177388e8ca34b81dc46"
+    },
+    {
+      "path": "gltf-loader.js",
+      "bytes": 115372,
+      "sha256": "dfbc2447f52567ddd12645d509badac1078cd99e00ca0c8d240e2e384cbc5d7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4697,
+      "sha256": "4e515d4dd1fd06f66d8ea940d4257ac39c5f24597945ec28d6e04303a5715521"
+    },
+    {
+      "path": "licenses/CMU-NOTICE.txt",
+      "bytes": 653,
+      "sha256": "5d0d14467de585125c81971eff733fae269931ef0d6804f4f2111ae29ab1bb9b"
+    },
+    {
+      "path": "licenses/MakeHuman-CC0.md",
+      "bytes": 6962,
+      "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+    },
+    {
+      "path": "licenses/Mindfront-NOTICE.txt",
+      "bytes": 739,
+      "sha256": "782a505b9614fd8337a0e9383b5973d418ebcc1242beaa589c2205b6a2949764"
+    },
+    {
+      "path": "licenses/Quaternius-CC0.txt",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "licenses/Quaternius-UAL2-NOTICE.txt",
+      "bytes": 541,
+      "sha256": "f9b1de4e8feff135555ac1c7d2eec65035a05fd74e4d632a3f826ac985c3f22c"
+    },
+    {
+      "path": "licenses/THREE-MIT.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3794,
+      "sha256": "a1ffed7ac07e41d2ffe75c1719b6ab9191f0298907bf34f8770875cb9fdfbe81"
+    },
+    {
+      "path": "rgbe-loader.js",
+      "bytes": 11852,
+      "sha256": "8452cce0048dabf8bbbb053de8195768a038b4fba5aa456d6786a307a941856f"
+    },
+    {
+      "path": "road-cuts.js",
+      "bytes": 3533,
+      "sha256": "92a77eb2c4ef6031c96e14af3fa139369774f2311db3c4fab4c88847f7bc0081"
+    },
+    {
+      "path": "route-readability.js",
+      "bytes": 1427,
+      "sha256": "b6e399d1390c6651a71cf06f2e4aab1dcd7d19184b5b572652b1b55fbdf6c3dc"
+    },
+    {
+      "path": "runner3d.js",
+      "bytes": 3797,
+      "sha256": "94e1f9d342953e2c46dd593a70411c21bc4414b8af4743d3e33dae4814af6abd"
+    },
+    {
+      "path": "server.cjs",
+      "bytes": 1582,
+      "sha256": "aca08adcfb0b2875a953ca5b3cb0ebabf2c99e69fb017585918d2b31cf6c8c80"
+    },
+    {
+      "path": "style.css",
+      "bytes": 8623,
+      "sha256": "413f30d1699f2ad7611ed8352b607e04a8f662f6cf1baf4a9723c425dee3e678"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 4816,
+      "sha256": "c57411c3e1cd870ab1642bd6e6b007a696309219a1fa5c9fb1952048ca573852"
+    },
+    {
+      "path": "three.min.js",
+      "bytes": 669884,
+      "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa"
+    },
+    {
+      "path": "verify.cjs",
+      "bytes": 3070,
+      "sha256": "5ad5d21c51b17d582c8621ae5657369f4c48f1c8c3d57f5dc031d3542080cd3b"
+    }
+  ]
+}
