@@ -1,0 +1,18 @@
+F One-piece Swimsuit 01
+Author: Mindfront (Sweden)
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+Source: https://static.makehumancommunity.org/assets/assetpacks/underwear03.html
+
+Original asset header:
+# Exported from MakeClothes (TM)
+# author Mindfront (Sweden)
+# license CC BY 4.0
+uuid 0f6d17ae-b40b-41cc-9934-35a6a35c72ff
+name F_One-piece_Swimsuit_01
+
+Changes for Relic Run: black material, deeper V-shaped back, fitted geometry,
+subdivision, retargeted skinning and integration in the combined runner.glb.
+
+Retain this author credit, source link, license link and modification notice
+when distributing the modified swimsuit or a model/game containing it.
