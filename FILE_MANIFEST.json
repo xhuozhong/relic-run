@@ -5,8 +5,8 @@
     "FILE_MANIFEST.json (this manifest)",
     ".git/"
   ],
-  "fileCount": 39,
-  "totalBytes": 60770347,
+  "fileCount": 40,
+  "totalBytes": 60770506,
   "runtimeReferences": [
     "assets/environment.png",
     "assets/fern-realistic.png",
@@ -74,6 +74,11 @@
       "path": "assets/monster.png",
       "bytes": 1823055,
       "sha256": "db0d73d6abf6edb07e5741b0cbd24d666a5224f4e82a11a091a7f2da25661b57"
+    },
+    {
+      "path": "assets/README.md",
+      "bytes": 159,
+      "sha256": "503353648664874d60806e3dec58684dfd85db4d9124b405d39cb43700864b3a"
     },
     {
       "path": "assets/reference.png",
